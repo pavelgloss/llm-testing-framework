@@ -1,0 +1,54 @@
+{
+  "supersystemprompt": "Reply with exactly one of: A, B, C, or D.\nExample: A",
+  "testSet": "en",
+  "systemPrompts": [
+    { "name": "emptySystemPrompt", "prompt": "", "enabled": true },
+    { "name": "accountantWithoutBE", "prompt": "You are a strict accountant, answer with reasoning first", "enabled": false },
+    { "name": "accountantWithBE", "prompt": "You are a helpful teacher, answer carefully", "enabled": false }
+  ],
+  "models": [
+    {
+      "name": "anthropic sonnet-4xxxx",
+      "enabled": false
+    },
+    {
+      "name": "gpt-5",
+      "enabled": true
+    },
+    {
+      "name": "gpt-5-chat-latest",
+      "temperature": 0.7,
+      "enabled": false
+    },
+    {
+      "name": "gpt-4.1",
+      "temperature": 0.7,
+      "enabled": false
+    },
+    {
+      "name": "gpt-4o",
+      "temperature": 0.2,
+      "enabled": false
+    },
+    {
+      "name": "gpt-4o",
+      "temperature": 0.7,
+      "enabled": false
+    },
+    {
+      "name": "gpt-4o",
+      "temperature": 1.0,
+      "enabled": false
+    },
+    {
+      "name": "gpt-5-mini",
+      "enabled": false
+    },
+    {
+      "name": "o3-mini",
+      "temperature": 0.7,
+      "enabled": false
+    }
+  ],
+  "runs": 1
+}

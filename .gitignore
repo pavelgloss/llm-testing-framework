@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Lockfiles
+# Keep package-lock.json committed!
+
+# Production builds
+dist/
+.next/
+out/
+.vercel/
+
+# Backup files
+backup-*.tar
+
+# Environment variables
+.env
+.env.local
+.env.production.local
+.env.development.local
+
+# IDE and OS
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+# stay in git
+!next-env.d.ts
+
+.vercel

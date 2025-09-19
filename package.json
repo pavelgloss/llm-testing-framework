@@ -1,0 +1,20 @@
+{
+  "name": "llm-testing-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-llm": "ts-node src/testLLM.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^24.5.2",
+    "dotenv": "^17.2.2",
+    "openai": "^5.21.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}

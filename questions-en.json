@@ -1,0 +1,101 @@
+[
+  {
+    "title": "What means 'taxable amount' or ‘taxable base’ on an invoice ?",
+    "options": [
+      { "option": "The amount on which VAT is calculated", "correct": true },
+      { "option": "The calculated VAT amount", "correct": false },
+      { "option": "The amount including VAT", "correct": false },
+      { "option": "The total amount of the goods for resale", "correct": false }
+    ]
+  },
+  {
+    "title": "Describe 'returnable packaging'",
+    "options": [
+      { "option": "Valuable packaging, such as euro pallets or beer kegs", "correct": true },
+      { "option": "Free packaging", "correct": false },
+      { "option": "Packaging that is always reimbursed", "correct": false },
+      { "option": "Non-returnable packaging", "correct": false }
+    ]
+  },
+  {
+    "title": "What is a balance sheet?",
+    "options": [
+      { "option": "A snapshot of assets, receivables, equity, and liabilities at a specific point in time", "correct": true },
+      { "option": "A snapshot of fixed & current assets and costs & revenues", "correct": false },
+      { "option": "An overview of profit or loss at the end of the financial year", "correct": false },
+      { "option": "A collection of all assets and receivables that have ever existed or still exist in the company", "correct": false }
+    ]
+  },
+  {
+    "title": "How do you record an increase in liabilities (passive)?",
+    "options": [
+      { "option": "Credit on a liability account", "correct": true },
+      { "option": "Debit on a liability account", "correct": false },
+      { "option": "Credit on an asset account", "correct": false },
+      { "option": "On the balance sheet under assets", "correct": false }
+    ]
+  },
+  {
+    "title": "What is the difference between a trade discount and a cash discount?",
+    "options": [
+      { "option": "Trade discount is calculated on goods for resale; cash discount on services", "correct": false },
+      { "option": "Trade discount is calculated on the price of goods for resale and cash discount on the taxable amount.", "correct": false },
+      { "option": "There is no difference, both mean the same", "correct": false },
+      { "option": "Trade discount is granted; cash discount depends on when payment is made", "correct": true }
+    ]
+  },
+  {
+    "title": "In what order do you calculate an invoice?",
+    "options": [
+      { "option": "Trade discount, cash discount, and VAT", "correct": true },
+      { "option": "Trade discount, VAT, and cash discount", "correct": false },
+      { "option": "Cash discount, trade discount, and VAT", "correct": false },
+      { "option": "VAT, cash discount, and trade discount", "correct": false }
+    ]
+  },
+  {
+    "title": "What do you record on the debit side when booking a sales invoice?",
+    "options": [
+      { "option": "Trade receivables and allowed discounts", "correct": true },
+      { "option": "Returnable packaging and expenses", "correct": false },
+      { "option": "Trade receivables and VAT", "correct": false },
+      { "option": "Sales of goods for resale and VAT", "correct": false }
+    ]
+  },
+  {
+    "title": "Where do you find an overview of costs and revenues?",
+    "options": [
+      { "option": "In the journals", "correct": false },
+      { "option": "In the balance sheet", "correct": false },
+      { "option": "In the balance sheet and in the income statement", "correct": false },
+      { "option": "In the income statement", "correct": true }
+    ]
+  },
+  {
+    "title": "How do you record an increase in assets?",
+    "options": [
+      { "option": "Credit on an asset account", "correct": false },
+      { "option": "Debit on an asset account", "correct": true },
+      { "option": "Debit on a liability account", "correct": false },
+      { "option": "You do not record assets when they increase", "correct": false }
+    ]
+  },
+  {
+    "title": "What is a credit note?",
+    "options": [
+      { "option": "A return slip for future purchases", "correct": false },
+      { "option": "A correction to a faulty invoice", "correct": true },
+      { "option": "An adjustment of the invoice amount", "correct": false },
+      { "option": "An invoice for a new sale", "correct": false }
+    ]
+  },
+  {
+    "title": "How do you calculate the net result (profit or loss) of a company?",
+    "options": [
+      { "option": "Turnover minus costs minus taxes", "correct": false },
+      { "option": "Revenues plus taxes", "correct": false },
+      { "option": "Revenues minus costs minus taxes", "correct": true },
+      { "option": "Turnover minus taxes", "correct": false }
+    ]
+  }
+]
